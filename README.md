@@ -5,7 +5,7 @@
 
 ## 🛠️ My Skills
 
-### 👉 Programming languages
+### Programming languages
 
 <p align="center"> 
   &emsp;
@@ -14,4 +14,15 @@
     <img alt="Php" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
   &emsp;
     <img alt="Typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+</p>
+
+### Frameworks
+
+<p align="center"> 
+  &emsp;
+     <img alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
+  &emsp;
+    <img alt="Expressjs" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge">
+  &emsp;
+    <img alt="Nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
 </p>
