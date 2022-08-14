@@ -24,7 +24,7 @@
   &emsp;
     <img alt="Expressjs" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge">
   &emsp;
-    <img alt="Nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
-  &emsp;
     <img alt="Nodejs" src="https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=for-the-badge&logo=codeIgniter&logoColor=white">
+  &emsp;
+    <img alt="Nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
 </p>
