@@ -52,3 +52,21 @@
   &emsp;
      <img alt="visualstudiocode" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
 </p>
+
+<br>
+
+## ☎️ How to reach me
+
+&emsp;
+<p align="center"> 
+  <a href="https://linktr.ee/hafiyanrizqisanjaya"> 
+    <img alt="linktree" src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white">
+  </a> 
+</p>
+
+&emsp;
+<p align="center"> 
+  <a href="https://www.instagram.com/hafiyanrizqi.dev/"> 
+    <img alt="ig" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  </a> 
+</p>
