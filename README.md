@@ -2,7 +2,7 @@
 <h4 align="center">Web Developer | Backend Developer</h4>
 
 <p align="center"> 
-	<img src="https://komarev.com/ghpvc/?username=yanssanjay404" alt="7oSkaaa" /> 
+	<img src="https://komarev.com/ghpvc/?username=yanssanjay404&label=PROFILE+VIEWS"/> 
 </p>
 
 <br>
