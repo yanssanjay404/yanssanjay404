@@ -53,6 +53,12 @@
     <img alt="Postgresql" src="https://img.shields.io/badge/Microsoft_Access-A4373A?style=for-the-badge&logo=microsoft-access&logoColor=white">
 </p>
 
+### Cloud
+<p align="center"> 
+  &emsp;
+     <img alt="aws" src="[https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)">
+</p>
+
 ### Operating Systems
 
 <p align="center"> 
