@@ -1,5 +1,5 @@
 <h1 align="center">Hi , I'm Hafiyan Rizqi Sanjaya <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<h4 align="center">Web Developer | Backend Developer</h4>
+<h4 align="center">Software Engineer</h4>
 
 <p align="center"> 
 	<img src="https://komarev.com/ghpvc/?username=yanssanjay404&color=brightgreen&label=PROFILE+VIEWS"/> 
@@ -56,7 +56,7 @@
 ### Cloud
 <p align="center"> 
   &emsp;
-     <img alt="aws" src="[https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)">
+     <img alt="aws" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white">
 </p>
 
 ### Operating Systems
